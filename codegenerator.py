@@ -1,4 +1,3 @@
-# This is my first professional project that will be used for work purpose!
 
 import random
 import string
