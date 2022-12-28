@@ -8,3 +8,4 @@ for i in range(30):
     result_str = ''.join(random.sample(string.ascii_lowercase, 5))
     print(result_str)
 
+
